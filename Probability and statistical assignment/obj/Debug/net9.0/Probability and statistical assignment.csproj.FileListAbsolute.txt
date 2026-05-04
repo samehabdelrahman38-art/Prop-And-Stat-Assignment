@@ -1,0 +1,14 @@
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\bin\Debug\net9.0\Probability and statistical assignment.exe
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\bin\Debug\net9.0\Probability and statistical assignment.deps.json
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\bin\Debug\net9.0\Probability and statistical assignment.runtimeconfig.json
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\bin\Debug\net9.0\Probability and statistical assignment.dll
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\bin\Debug\net9.0\Probability and statistical assignment.pdb
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.AssemblyInfoInputs.cache
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.AssemblyInfo.cs
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.csproj.CoreCompileInputs.cache
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.dll
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\refint\Probability and statistical assignment.dll
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.pdb
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\Probability and statistical assignment.genruntimeconfig.cache
+C:\Users\Computec\OneDrive\Desktop\OOP\studying\Probability and statistical assignment\obj\Debug\net9.0\ref\Probability and statistical assignment.dll
